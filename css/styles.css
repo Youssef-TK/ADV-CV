@@ -33,6 +33,10 @@ a {
     font-family: "Montserrat", sans-serif;
 }
 
+a:hover {
+    color: #EAf6f6;
+}
+
 .top-container {
     /* background-color: #eae4dd; */
     background-color: #EAf6f6;
@@ -142,12 +146,12 @@ hr {
     background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     height: 20px;
     line-height: 20px;
     color: #FFFFFF;
-    font-family: Helvetica;
-    width: 127px;
+    font-family: "Montserrat", sans-serif;
+    width: 140px;
     font-size: 19px;
     font-weight: 400;
     padding: 10px;
@@ -162,14 +166,14 @@ hr {
  
  .BUTTON:hover {
     border: solid #FFFFFF 1px;
-    background: #58A5A5;
-    background-image: -webkit-linear-gradient(top, #58A5A5, #12878C);
-    background-image: -moz-linear-gradient(top, #58A5A5, #12878C);
-    background-image: -ms-linear-gradient(top, #58A5A5, #12878C);
-    background-image: -o-linear-gradient(top, #58A5A5, #12878C);
-    background-image: -webkit-gradient(to bottom, #58A5A5, #12878C);
+    background: #7ce7e7;
+    background-image: -webkit-linear-gradient(top, #7ce7e7, #13acb2);
+    background-image: -moz-linear-gradient(top, #7ce7e7, #13acb2);
+    background-image: -ms-linear-gradient(top, #7ce7e7, #13acb2);
+    background-image: -o-linear-gradient(top, #7ce7e7, #13acb2);
+    background-image: -webkit-gradient(to bottom, #7ce7e7, #13acb2);
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     text-decoration: none;
  }
